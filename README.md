@@ -10,7 +10,7 @@
 
 ---
 
-📈 ###Project Highlights
+## 📈 Project Highlights
 
 * Built automated Excel-based MIS reports to track operational KPIs and performance metrics
 
@@ -32,7 +32,7 @@
 
 ---
 
-🎯 ###Objective
+## 🎯 Objective
 
 The objective of this portfolio is to demonstrate my ability to:
 
@@ -48,6 +48,6 @@ The objective of this portfolio is to demonstrate my ability to:
 
 ---
 
-📌 ###Note
+## 📌 Note
 
 All datasets used in this repository are either publicly available or anonymized to maintain data privacy and confidentiality.
