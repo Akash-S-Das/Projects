@@ -48,7 +48,7 @@ The dataset represents retail transaction-level sales data with the following at
 
 The project includes the following analytical steps:
 
-1. Data Preparation
+**1. Data Preparation**
 
 * Database and table creation
 
@@ -58,7 +58,7 @@ The project includes the following analytical steps:
 
 * Data quality validation
 
-2. Exploratory Data Analysis (EDA)
+**2. Exploratory Data Analysis (EDA)**
 
 * Sales distribution across product categories
 
@@ -68,7 +68,7 @@ The project includes the following analytical steps:
 
 * Revenue and quantity-based performance metrics
 
-3. Business-Oriented Queries
+**3. Business-Oriented Queries**
 
 * Identifying high-performing product categories
 
