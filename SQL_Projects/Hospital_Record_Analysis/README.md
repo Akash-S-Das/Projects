@@ -15,13 +15,13 @@ Rather than being a theoretical exercise, this project simulates real-world scen
 Businesses rely on structured data to understand performance, trends, and patterns.
 This project focuses on using SQL to:
 
-** Explore datasets efficiently
+* Explore datasets efficiently
 
-** Perform aggregations and filtering
+* Perform aggregations and filtering
 
-** Answer analytical and reporting-style questions
+* Answer analytical and reporting-style questions
 
-** Validate data accuracy and consistency
+* Validate data accuracy and consistency
 
 ---
 
@@ -29,9 +29,9 @@ This project focuses on using SQL to:
 
 **SQL**
 
-** Relational Database Concepts
+* Relational Database Concepts
 
-** Data Analysis & Query Optimization
+* Data Analysis & Query Optimization
 
 ---
 
@@ -39,15 +39,15 @@ This project focuses on using SQL to:
 
 The SQL script contains multiple queries addressing analytical use cases such as:
 
-** Data exploration and record inspection
+* Data exploration and record inspection
 
-** Filtering records based on conditions
+* Filtering records based on conditions
 
-** Aggregation using grouping logic
+* Aggregation using grouping logic
 
-** Ordering and ranking results
+* Ordering and ranking results
 
-** Business-style question answering using SQL
+* Business-style question answering using SQL
 
 Each query is written to reflect how analysts interact with production databases.
 
@@ -55,26 +55,26 @@ Each query is written to reflect how analysts interact with production databases
 
 ##🧠 SQL Concepts Demonstrated
 
-** SELECT, WHERE
+* SELECT, WHERE
 
-** GROUP BY, HAVING
+* GROUP BY, HAVING
 
-** ORDER BY
+* ORDER BY
 
-** Aggregate functions (COUNT, SUM, AVG, MIN, MAX)
+* Aggregate functions (COUNT, SUM, AVG, MIN, MAX)
 
-** Logical operators (AND, OR)
+* Logical operators (AND, OR)
 
-** Query structuring and readability best practices
+* Query structuring and readability best practices
 
 ---
 
 ## 📈 Key Outcomes
 
-** Demonstrates ability to translate business questions into SQL queries
+* Demonstrates ability to translate business questions into SQL queries
 
-** Shows strong understanding of aggregation and filtering logic
+* Shows strong understanding of aggregation and filtering logic
 
-** Reinforces data exploration and validation skills
+* Reinforces data exploration and validation skills
 
-** Builds a solid foundation for advanced analytics and reporting
+* Builds a solid foundation for advanced analytics and reporting
