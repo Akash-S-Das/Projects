@@ -80,7 +80,7 @@ The project includes the following analytical steps:
 
 ---
 
-## 📈 Key Insights (Sample)
+## 📈 Key Insights
 
 * Certain product categories contribute disproportionately to total revenue.
 
